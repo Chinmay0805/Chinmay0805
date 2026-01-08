@@ -1,56 +1,38 @@
-# 👋 Hi, I'm Chinmay Satyanarayana Bhat!  
+# Chinmay Satyanarayana Bhat
+**Computer Science Undergraduate | AI & Machine Learning Enthusiast**
 
-🎯 **Computer Science Undergraduate | AI & ML Enthusiast**  
-🔎 Passionate about Artificial Intelligence, Machine Learning, and Data Analytics.  
-
----
-
-## 🚀 Skills & Technologies  
-- **Programming:** Python, C, C++, Java  
-- **AI & ML:** TensorFlow, Keras, PyTorch, Scikit-learn, OpenCV  
-- **NLP:** NLTK, spaCy  
-- **Data Analytics:** NumPy, Pandas, Matplotlib, Seaborn  
-- **IoT & Embedded Systems:** Arduino, Sensor Integration  
-- **Databases:** MySQL  
-- **Version Control:** Git, GitHub, GitLab  
-- **Soft Skills:** Project Management, Agile, Problem Solving, Team Collaboration  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinmay-bhat-ba71572a5)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chibhat2005@gmail.com)
 
 ---
 
-## 🌱 Current Projects  
-### 🔹 ** Smart Parking System**  
-- IoT-based license plate recognition using OpenCV and YOLOv5. 
-- Software and Hardware integration python and arduino software
-
-
-### 🔹 **Music Genre Classification**  
-- Classify songs into genres using LSTM.  
-- Audio feature extraction using Librosa.  
-
-### 🔹 **Stock Price Prediction**  
-- Predicting future stock prices using LSTM.  
-- Historical data analysis and trend modeling.  
-
-### 🔹 **Fake News Detection**  
-- Classify news articles as real or fake using Logistic Regression.  
-- TF-IDF Vectorizer for text processing.  
-
-### 🔹 **Titanic Survivor Predictor**  
-- Predict passenger survival on the Titanic using Logistic Regression.  
-- Feature engineering and exploratory data analysis (EDA).  
-
-### 🔹 **Movie Recommendation System**  
-- Recommend movies based on user preferences using Neural Networks.  
-- Cosine similarity for recommendation logic.  
+### 👨‍💻 About Me
+I am a Computer Science student passionate about building intelligent systems. My focus is on applying **Deep Learning**, **Data Analytics**, and **Computer Vision** to solve real-world problems.
+* **Winner:** Smart India Hackathon (SIH) 2025 🏆
+* **Winner:** Smart India Hackathon (SIH) 2024 🏆
 
 ---
 
-## 📫 Connect with Me  
-[![LinkedIn](www.linkedin.com/in/chinmay-bhat-ba71572a5)  
-[![Gmail](chibhat2005@gmail.com)  
+### 🛠 Technical Skills
+
+| Domain | Stack |
+| :--- | :--- |
+| **Languages** | Python, C++, Java, SQL |
+| **Machine Learning** | TensorFlow, Keras, PyTorch, Scikit-learn |
+| **Computer Vision** | OpenCV, YOLOv5, Roboflow |
+| **Data & Backend** | Pandas, FastAPI, NumPy, Matplotlib |
+| **Tools & IoT** | Git, Arduino, Streamlit, Jupyter |
 
 ---
 
+### 🚀 Key Projects
 
+#### **SAGAR** (SIH 2025 Winner)
+*Spatio-Temporal Analytics Gateway for Aquatic Resources.*
+* **Tech:** Python, Machine Learning, FastAPI, Data Analytics.
+* **Description:** Developed an AI-powered platform for the Blue Economy that analyzes large-scale marine datasets. The system provides spatio-temporal insights to assist policymakers in ecosystem monitoring and biodiversity assessment.
 
-💻 *"Turning ideas into code, one project at a time!"*  
+#### **IoT Smart Parking System** (SIH 2024 Winner)
+*An integrated hardware-software solution to automate parking management.*
+* **Tech:** Python, OpenCV, YOLOv5, Arduino, Ultrasonic Sensors.
+* **Description:** Developed a hybrid detection system combining computer vision and physical sensors to track parking slot occupancy in real-time, reducing false positives.
