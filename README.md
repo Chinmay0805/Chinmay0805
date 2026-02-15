@@ -6,7 +6,7 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 I am a Computer Science student passionate about building intelligent systems. My focus is on applying **Deep Learning**, **Data Analytics**, and **Computer Vision** to solve real-world problems.
 * **Winner:** Smart India Hackathon (SIH) 2025 🏆
 * **Winner:** Smart India Hackathon (SIH) 2024 🏆
@@ -25,7 +25,7 @@ I am a Computer Science student passionate about building intelligent systems. M
 
 ---
 
-### 🚀 Key Projects
+###  Key Projects
 
 #### **SAGAR** (SIH 2025 Winner)
 *Spatio-Temporal Analytics Gateway for Aquatic Resources.*
