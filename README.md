@@ -1,8 +1,8 @@
 # Chinmay Satyanarayana Bhat
 **Computer Science Undergraduate | AI & Machine Learning Enthusiast**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinmay-bhat-ba71572a5)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chibhat2005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinmay-bhat-ba71572a5)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chibhat2005@gmail.com)
 
 ---
 
