@@ -20,6 +20,7 @@ I am a Computer Science student passionate about building intelligent systems. M
 | **Languages** | Python, C++, Java, SQL |
 | **Machine Learning** | TensorFlow, Keras, PyTorch, Scikit-learn |
 | **Computer Vision** | OpenCV, YOLOv5, Roboflow |
+| **Web Development** | HTML5, CSS3, JavaScript, React Js, Node Js |
 | **Data & Backend** | Pandas, FastAPI, NumPy, Matplotlib |
 | **Tools & IoT** | Git, Arduino, Streamlit, Jupyter |
 
