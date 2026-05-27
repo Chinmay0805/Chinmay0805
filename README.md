@@ -23,13 +23,13 @@ Focused on:
 - Intelligent Systems
 - Open Source
 
-Currently building:
+Currently Building:
 
 ```txt
 SAGAR v2 → AI marine intelligence platform
 ```
 
-Open to:
+Open To:
 
 ```txt
 Research • Collaboration • Engineering Opportunities
@@ -37,7 +37,7 @@ Research • Collaboration • Engineering Opportunities
 
 ---
 
-## Stack
+## Tech Stack
 
 ### AI / ML
 
@@ -52,12 +52,12 @@ Research • Collaboration • Engineering Opportunities
 ![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi)
-![NodeJS](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs)
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker)
 
 ### Data
 
-![Postgres](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase)
 
@@ -83,25 +83,57 @@ Scalable semantic retrieval pipeline using embeddings, clustering, and vector se
 
 ### HireFlow
 
-Full-stack recruitment platform with role-based access and real-time job pipelines.
+Full-stack recruitment platform with role-based access and real-time recruitment pipelines.
 
 **React • Firebase • Tailwind • Vite**
 
 ---
+## Current Focus
+ 
+```mermaid
+mindmap
+  root((Chinmay))
+    AI Systems
+      Agentic AI
+      LLM Pipelines
+    Full Stack
+      Scalable Backends
+      AI Native Apps
+    Open Source      
+     
+```
+ 
+---
 
-## GitHub Activity
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Chinmay0805&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-
-<img width="48%" src="https://streak-stats.demolab.com?user=Chinmay0805&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 
 <br><br>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Chinmay0805&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" />
+
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chinmay0805&theme=github_dark"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chinmay0805&theme=github_dark"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chinmay0805&theme=github_dark&utcOffset=5.5"/>
+
+<br><br>
+
 
 </div>
+
+---
+
+## Current Focus
+
+```txt
+→ Building AI-native products
+→ Exploring Agentic AI systems
+→ Scalable backend architecture
+→ Applied ML research
+```
 
 ---
 
