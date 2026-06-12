@@ -99,7 +99,7 @@ mindmap
     Full Stack
       Scalable Backends
       AI Native Apps
-    Open Source      
+       
      
 ```
  
