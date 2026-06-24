@@ -88,54 +88,6 @@ Full-stack recruitment platform with role-based access and real-time recruitment
 **React • Firebase • Tailwind • Vite**
 
 ---
-## Current Focus
- 
-```mermaid
-mindmap
-  root((Chinmay))
-    AI Systems
-      Agentic AI
-      LLM Pipelines
-    Full Stack
-      Scalable Backends
-      AI Native Apps
-       
-     
-```
- 
----
-
-
-<div align="center">
-
-
-<br><br>
-
-
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chinmay0805&theme=github_dark"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chinmay0805&theme=github_dark"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chinmay0805&theme=github_dark&utcOffset=5.5"/>
-
-<br><br>
-
-
-</div>
-
----
-
-## Current Focus
-
-```txt
-→ Building AI-native products
-→ Exploring Agentic AI systems
-→ Scalable backend architecture
-→ Applied ML research
-```
-
----
 
 ## Connect
 
