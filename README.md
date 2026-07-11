@@ -8,7 +8,7 @@
 <!-- Social badges -->
 <p>
   <a href="https://portfolio-one-wheat-37.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/chinmay-bhat-ba71572a5"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -21,13 +21,12 @@
 
 ```yaml
 role: AI/ML Engineer & Full-Stack Developer
-focus: Reinforcement Learning, RAG systems, Computer Vision, IoT-integrated products
+focus: Web/App Development, AI-Native apps, Reinforcement Learning, RAG systems, Computer Vision, IoT-integrated products
 highlights: Smart India Hackathon 2024 & 2025 Winner
 education: B.Tech, Computer Science (AI/ML specialization)
 ```
 
 -  **Two-time Smart India Hackathon winner** (2024 & 2025) — shipping working, judged, end-to-end AI products under real deadline pressure.
--  Currently building a **multi-model AI research pipeline for Indian healthcare** as part of an 8–10 month capstone research project.
 -  Comfortable across the full stack of modern AI engineering: **RL agents, RAG pipelines, computer vision, vector search** — and the backend/infra to actually ship them.
 -  I like closing the loop between **physical hardware and cloud intelligence** — sensors talking to models talking to dashboards.
 
@@ -135,7 +134,7 @@ IoT-integrated smart parking system bridging physical ultrasonic sensors with a 
 <br/>
 Multi-tenant, cross-platform mobile marketplace connecting agricultural producers directly with localized supply chains.
 <br/>
-`React Native` `Expo` `PostgreSQL` `Google Cloud` `Render` `OAuth`
+`React Native` `Expo` `PostgreSQL` `Google Cloud` `Render` `OAuth` `MongoDB`
 <br/>
 <a href="https://agroconnect-neon.vercel.app">🔗 Live Demo</a>
 
@@ -146,7 +145,7 @@ Multi-tenant, cross-platform mobile marketplace connecting agricultural producer
 <br/>
 Automated code evaluation and grading platform built with an isolated execution engine for real-time code processing.
 <br/>
-`Next.js 16` `Java 15` `Docker` `Piston`
+`Next.js 16` `Java 15` `Docker` `Piston` `Azure`
 <br/>
 <a href="https://incept-phi.vercel.app">🔗 Live Demo</a>
 
