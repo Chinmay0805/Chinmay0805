@@ -34,9 +34,9 @@ focus:       Graph RAG · Reinforcement Learning · Computer Vision · AI-native
 highlights:  Smart India Hackathon 2024 & 2025 Winner
 ```
 
-- 🏆 **Two-time Smart India Hackathon winner** (2024 & 2025), shipping judged, end-to-end AI products under real deadlines.
--  Full-stack AI engineering across **RAG pipelines, RL agents, computer vision and vector search**, plus the backend and infra to ship them.
--  I close the loop between **physical hardware and cloud intelligence**: sensors feeding models feeding live dashboards.
+- 🏆 **Two-time Smart India Hackathon winner** (2024 & 2025).
+-  Full-stack along with AI engineering across **RAG pipelines, RL agents, vector search**.
+-  Passionate about developing products that resolve complex industrial challenges
 
 ---
 
